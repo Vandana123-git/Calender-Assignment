@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <title>Simple Form</title>
+    </head>
+    <body>
+        <form>
+            User Name <br>
+            <input type="text">
+            <br><br>
+            Email id <br>
+            <input type="email">
+            <br><br>
+            Gender <br>
+            <input type="radio" name="gender">Female
+            <br>
+            <input type="radio" name="gender">Male
+            <br><br>
+            SkillS <br>
+            <input type="checkbox">HTML
+            <br>
+            <input type="checkbox">CSS
+            <br>
+            <input type="checkbox">JavaScript
+            <br><br>
+            <input type="Submit" value="Submit">
+        </form>
+    </body>
+</html>

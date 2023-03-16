@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <title>Validate Form</title>
+    </head>
+    <body>
+        <form>
+            User Name <br>
+            <input type="text" placeholder="Enter your name" required>
+            <br><br>
+            Email id <br>
+            <input type="email" placeholder="Enter your email id" required>
+            <br><br>
+            Password <br>
+            <input type="password" placeholder="Enter your password" required>
+            <br><br>
+            <input type="submit" value="Validate"> <br>
+            
+
+        </form>
+    </body>
+</html>
